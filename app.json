@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/424.jpg",
     "scheme": "mobia",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
